@@ -12,7 +12,7 @@
 
 
 ## License 
-Copyright <2023> <Katocraft>
+© 2023 Katocraft
 
 Permission is granted, free of charge, to any 
 individual
