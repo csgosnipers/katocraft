@@ -10,6 +10,9 @@
 - [@marnov042](https://github.com/marnov042) - Front End & Backend
 - [@JoonaFinland](https://github.com/JoonaFinland) - Bug Hunter 
 
+## Sales
+Sales before the 10th of January 2023 might be incomplete.
+
 
 ## License 
 © 2023 Katocraft
