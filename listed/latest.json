@@ -1,5 +1,27 @@
 [
   {
+    "url": "https://buff.163.com/market/m/item_detail?appid=730&game=csgo&classid=380794996&instanceid=480085569&assetid=35463378289&contextid=2&sell_order_id=0961893123-79E3-134874057",
+    "id": 35018,
+    "name": "Glock-18 | Dragon Tattoo (Factory New)",
+    "wear": "Factory New",
+    "img": "https://spect.fp.ps.netease.com/file/65ad48965d50e7a2c218cb09qi3apq5105?fop=imageView/4/x/584/y/300/w/1350/h/900",
+    "price": "2100",
+    "rarity": "Restricted",
+    "float": "0.02583349496126175",
+    "listed": 1706550455,
+    "type": "Listed",
+    "stickers": [
+      {
+        "category": "sticker",
+        "img_url": "https://g.fp.ps.netease.com/market/file/5a9b65d98b7427fffcf46260dtEDYhYM",
+        "name": "iBUYPOWER | Katowice 2014",
+        "slot": 0,
+        "sticker_id": 59,
+        "wear": 0
+      }
+    ]
+  },
+  {
     "url": "https://buff.163.com/market/m/item_detail?appid=730&game=csgo&classid=922786576&instanceid=188540573&assetid=25120724879&contextid=2&sell_order_id=0961913296-79E3-134874057",
     "id": 39251,
     "name": "StatTrak™ P250 | Hive (Minimal Wear)",
@@ -9,6 +31,7 @@
     "rarity": "Mil-Spec Grade",
     "float": "0.12227437645196915",
     "listed": 1706549374,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -53,6 +76,7 @@
     "rarity": "Covert",
     "float": "0.05865677818655968",
     "listed": 1706548736,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -98,6 +122,7 @@
     "rarity": "Covert",
     "float": "0.5078138709068298",
     "listed": 1706548634,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -119,6 +144,7 @@
     "rarity": "Industrial Grade",
     "float": "0.12537187337875366",
     "listed": 1706547867,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -156,6 +182,7 @@
     "rarity": "Classified",
     "float": "0.16871246695518494",
     "listed": 1706547623,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -201,6 +228,7 @@
     "rarity": "Covert",
     "float": "0.26102444529533386",
     "listed": 1706546776,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -246,6 +274,7 @@
     "rarity": "Classified",
     "float": "0.1634959578514099",
     "listed": 1706546025,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -290,6 +319,7 @@
     "rarity": "Mil-Spec Grade",
     "float": "0.024159928783774376",
     "listed": 1706545665,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -311,6 +341,7 @@
     "rarity": "Covert",
     "float": "0.25748345255851746",
     "listed": 1706545543,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -356,6 +387,7 @@
     "rarity": "Restricted",
     "float": "0.1909904032945633",
     "listed": 1706545339,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -401,6 +433,7 @@
     "rarity": "Restricted",
     "float": "0.16070523858070374",
     "listed": 1706544933,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -446,6 +479,7 @@
     "rarity": "Classified",
     "float": "0.16893640160560608",
     "listed": 1706544777,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -491,6 +525,7 @@
     "rarity": "Classified",
     "float": "0.03198999539017677",
     "listed": 1706543983,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -512,6 +547,7 @@
     "rarity": "Classified",
     "float": "0.11016426235437393",
     "listed": 1706543815,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -549,6 +585,7 @@
     "rarity": "Restricted",
     "float": "0.059110429137945175",
     "listed": 1706543244,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -570,6 +607,7 @@
     "rarity": "Restricted",
     "float": "0.40118491649627686",
     "listed": 1706543081,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -591,6 +629,7 @@
     "rarity": "Classified",
     "float": "0.21917088329792023",
     "listed": 1706541962,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -636,6 +675,7 @@
     "rarity": "Restricted",
     "float": "0.11292717605829239",
     "listed": 1706541893,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -657,6 +697,7 @@
     "rarity": "Covert",
     "float": "0.05217939242720604",
     "listed": 1706541780,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -702,6 +743,7 @@
     "rarity": "Restricted",
     "float": "0.07658718526363373",
     "listed": 1706541758,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -731,6 +773,7 @@
     "rarity": "Restricted",
     "float": "0.03498741239309311",
     "listed": 1706541675,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -760,6 +803,7 @@
     "rarity": "Classified",
     "float": "0.10837489366531372",
     "listed": 1706540643,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -805,6 +849,7 @@
     "rarity": "Mil-Spec Grade",
     "float": "0.0995870977640152",
     "listed": 1706539817,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -850,6 +895,7 @@
     "rarity": "Mil-Spec Grade",
     "float": "0.09106304496526718",
     "listed": 1706537474,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -895,6 +941,7 @@
     "rarity": "Classified",
     "float": "0.1515929102897644",
     "listed": 1706537451,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -940,6 +987,7 @@
     "rarity": "Classified",
     "float": "0.016815219074487686",
     "listed": 1706537437,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -961,6 +1009,7 @@
     "rarity": "Classified",
     "float": "0.09763343632221222",
     "listed": 1706537409,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -998,6 +1047,7 @@
     "rarity": "Mil-Spec Grade",
     "float": "0.12725959718227386",
     "listed": 1706537386,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -1043,6 +1093,7 @@
     "rarity": "Mil-Spec Grade",
     "float": "0.08427152037620544",
     "listed": 1706536738,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -1072,6 +1123,7 @@
     "rarity": "Restricted",
     "float": "0.04471919313073158",
     "listed": 1706536737,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -1117,6 +1169,7 @@
     "rarity": "Industrial Grade",
     "float": "0.2596835196018219",
     "listed": 1706536737,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -1154,6 +1207,7 @@
     "rarity": "Restricted",
     "float": "0.004914750810712576",
     "listed": 1706536736,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -1199,6 +1253,7 @@
     "rarity": "Industrial Grade",
     "float": "0.1480693519115448",
     "listed": 1706536735,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -1244,6 +1299,7 @@
     "rarity": "Classified",
     "float": "0.2726336419582367",
     "listed": 1706536735,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -1273,6 +1329,7 @@
     "rarity": "Industrial Grade",
     "float": "0.17003454267978668",
     "listed": 1706536734,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -1302,6 +1359,7 @@
     "rarity": "Classified",
     "float": "0.0640842542052269",
     "listed": 1706535781,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -1339,6 +1397,7 @@
     "rarity": "Restricted",
     "float": "0.1846846640110016",
     "listed": 1706535778,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -1376,6 +1435,7 @@
     "rarity": "Classified",
     "float": "0.028281889855861664",
     "listed": 1706535376,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -1421,6 +1481,7 @@
     "rarity": "Mil-Spec Grade",
     "float": "0.14562007784843445",
     "listed": 1706535225,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -1458,6 +1519,7 @@
     "rarity": "Mil-Spec Grade",
     "float": "0.14819133281707764",
     "listed": 1706533998,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -1503,6 +1565,7 @@
     "rarity": "Restricted",
     "float": "0.13009798526763916",
     "listed": 1706533998,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -1540,6 +1603,7 @@
     "rarity": "Restricted",
     "float": "0.3560880720615387",
     "listed": 1706533031,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -1577,6 +1641,7 @@
     "rarity": "Restricted",
     "float": "0.003926781006157398",
     "listed": 1706532756,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -1606,6 +1671,7 @@
     "rarity": "Classified",
     "float": "0.05507240444421768",
     "listed": 1706532332,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -1643,6 +1709,7 @@
     "rarity": "Covert",
     "float": "0.038675278425216675",
     "listed": 1706532331,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -1680,6 +1747,7 @@
     "rarity": "Covert",
     "float": "0.07148879021406174",
     "listed": 1706532258,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -1725,6 +1793,7 @@
     "rarity": "Classified",
     "float": "0.19898533821105957",
     "listed": 1706532257,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -1762,6 +1831,7 @@
     "rarity": "Classified",
     "float": "0.12471640110015869",
     "listed": 1706532257,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -1807,6 +1877,7 @@
     "rarity": "Mil-Spec Grade",
     "float": "0.2840217053890228",
     "listed": 1706531292,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -1852,6 +1923,7 @@
     "rarity": "Classified",
     "float": "0.03471217676997185",
     "listed": 1706531292,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -1897,6 +1969,7 @@
     "rarity": "Classified",
     "float": "0.5015478134155273",
     "listed": 1706531291,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -1942,6 +2015,7 @@
     "rarity": "Restricted",
     "float": "0.12384786456823349",
     "listed": 1706531291,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -1963,6 +2037,7 @@
     "rarity": "Classified",
     "float": "0.2103859931230545",
     "listed": 1706531290,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -2008,6 +2083,7 @@
     "rarity": "Classified",
     "float": "0.19854259490966797",
     "listed": 1706531290,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -2053,6 +2129,7 @@
     "rarity": "Classified",
     "float": "0.2336602807044983",
     "listed": 1706531289,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -2098,6 +2175,7 @@
     "rarity": "Classified",
     "float": "0.15109050273895264",
     "listed": 1706530096,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -2135,6 +2213,7 @@
     "rarity": "Restricted",
     "float": "0.3691033720970154",
     "listed": 1706529824,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -2180,6 +2259,7 @@
     "rarity": "Mil-Spec Grade",
     "float": "0.14282377064228058",
     "listed": 1706529356,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -2225,6 +2305,7 @@
     "rarity": "Mil-Spec Grade",
     "float": "0.12295219302177429",
     "listed": 1706529330,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -2246,6 +2327,7 @@
     "rarity": "Restricted",
     "float": "0.29322630167007446",
     "listed": 1706528872,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -2291,6 +2373,7 @@
     "rarity": "Covert",
     "float": "0.5468595027923584",
     "listed": 1706528520,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -2312,6 +2395,7 @@
     "rarity": "Restricted",
     "float": "0.3754841983318329",
     "listed": 1706528519,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -2357,6 +2441,7 @@
     "rarity": "Restricted",
     "float": "0.020645644515752792",
     "listed": 1706528517,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -2402,6 +2487,7 @@
     "rarity": "Classified",
     "float": "0.36983463168144226",
     "listed": 1706528452,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -2423,6 +2509,7 @@
     "rarity": "Restricted",
     "float": "0.036452557891607285",
     "listed": 1706528144,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -2444,6 +2531,7 @@
     "rarity": "Mil-Spec Grade",
     "float": "0.06665857136249542",
     "listed": 1706527780,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -2489,6 +2577,7 @@
     "rarity": "Restricted",
     "float": "0.025504345074295998",
     "listed": 1706527372,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -2510,6 +2599,7 @@
     "rarity": "Classified",
     "float": "0.31709325313568115",
     "listed": 1706527157,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -2531,6 +2621,7 @@
     "rarity": "Classified",
     "float": "0.052866123616695404",
     "listed": 1706526516,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -2560,6 +2651,7 @@
     "rarity": "Classified",
     "float": "0.43688464164733887",
     "listed": 1706526160,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -2605,6 +2697,7 @@
     "rarity": "Classified",
     "float": "0.1738964021205902",
     "listed": 1706525547,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -2634,6 +2727,7 @@
     "rarity": "Mil-Spec Grade",
     "float": "0.062390513718128204",
     "listed": 1706525363,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -2663,6 +2757,7 @@
     "rarity": "Restricted",
     "float": "0.057796597480773926",
     "listed": 1706525186,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -2708,6 +2803,7 @@
     "rarity": "Industrial Grade",
     "float": "0.3413752615451813",
     "listed": 1706524491,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -2753,6 +2849,7 @@
     "rarity": "Classified",
     "float": "0.4420456886291504",
     "listed": 1706524289,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -2798,6 +2895,7 @@
     "rarity": "Mil-Spec Grade",
     "float": "0.39096131920814514",
     "listed": 1706523938,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -2835,6 +2933,7 @@
     "rarity": "Mil-Spec Grade",
     "float": "0.34134048223495483",
     "listed": 1706523938,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -2879,6 +2978,7 @@
     "rarity": "Mil-Spec Grade",
     "float": "0.12517233192920685",
     "listed": 1706523937,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -2924,6 +3024,7 @@
     "rarity": "Restricted",
     "float": "0.1726771742105484",
     "listed": 1706523937,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -2961,6 +3062,7 @@
     "rarity": "Mil-Spec Grade",
     "float": "0.17827409505844116",
     "listed": 1706523893,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -3006,6 +3108,7 @@
     "rarity": "Classified",
     "float": "0.045002229511737823",
     "listed": 1706523770,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -3043,6 +3146,7 @@
     "rarity": "Mil-Spec Grade",
     "float": "0.13271410763263702",
     "listed": 1706523529,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -3088,6 +3192,7 @@
     "rarity": "Mil-Spec Grade",
     "float": "0.12471599876880646",
     "listed": 1706523529,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -3133,6 +3238,7 @@
     "rarity": "Mil-Spec Grade",
     "float": "0.07940676808357239",
     "listed": 1706523528,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -3154,6 +3260,7 @@
     "rarity": "Mil-Spec Grade",
     "float": "0.12966829538345337",
     "listed": 1706523527,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -3175,6 +3282,7 @@
     "rarity": "Mil-Spec Grade",
     "float": "0.21489326655864716",
     "listed": 1706523526,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -3220,6 +3328,7 @@
     "rarity": "Mil-Spec Grade",
     "float": "0.14977861940860748",
     "listed": 1706523526,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -3265,6 +3374,7 @@
     "rarity": "Classified",
     "float": "0.0787193551659584",
     "listed": 1706523525,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -3286,6 +3396,7 @@
     "rarity": "Industrial Grade",
     "float": "0.033511631190776825",
     "listed": 1706523378,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -3323,6 +3434,7 @@
     "rarity": "Mil-Spec Grade",
     "float": "0.06553232669830322",
     "listed": 1706523024,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -3352,6 +3464,7 @@
     "rarity": "Classified",
     "float": "0.06935697793960571",
     "listed": 1706523024,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -3373,6 +3486,7 @@
     "rarity": "Classified",
     "float": "0.04965926334261894",
     "listed": 1706522693,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -3418,6 +3532,7 @@
     "rarity": "Classified",
     "float": "0.2817179560661316",
     "listed": 1706522356,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -3439,6 +3554,7 @@
     "rarity": "Mil-Spec Grade",
     "float": "0.16156531870365143",
     "listed": 1706522313,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -3484,6 +3600,7 @@
     "rarity": "Industrial Grade",
     "float": "0.10623941570520401",
     "listed": 1706522260,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -3521,6 +3638,7 @@
     "rarity": "Consumer Grade",
     "float": "0.20689088106155396",
     "listed": 1706522260,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -3542,6 +3660,7 @@
     "rarity": "Industrial Grade",
     "float": "0.19843721389770508",
     "listed": 1706522259,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -3587,6 +3706,7 @@
     "rarity": "Industrial Grade",
     "float": "0.588534414768219",
     "listed": 1706522259,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -3616,6 +3736,7 @@
     "rarity": "Restricted",
     "float": "0.22598963975906372",
     "listed": 1706522258,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -3645,6 +3766,7 @@
     "rarity": "Mil-Spec Grade",
     "float": "0.24694934487342834",
     "listed": 1706522257,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -3674,6 +3796,7 @@
     "rarity": "Mil-Spec Grade",
     "float": "0.1708507090806961",
     "listed": 1706522255,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -3695,6 +3818,7 @@
     "rarity": "Mil-Spec Grade",
     "float": "0.12836231291294098",
     "listed": 1706522255,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -3716,6 +3840,7 @@
     "rarity": "Mil-Spec Grade",
     "float": "0.0014059615787118673",
     "listed": 1706522252,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -3737,6 +3862,7 @@
     "rarity": "Industrial Grade",
     "float": "0.25013116002082825",
     "listed": 1706522251,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -3758,6 +3884,7 @@
     "rarity": "Industrial Grade",
     "float": "0.12460993230342865",
     "listed": 1706522249,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -3787,6 +3914,7 @@
     "rarity": "Mil-Spec Grade",
     "float": "0.22993622720241547",
     "listed": 1706521866,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -3808,6 +3936,7 @@
     "rarity": "Mil-Spec Grade",
     "float": "0.032371990382671356",
     "listed": 1706521847,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -3829,6 +3958,7 @@
     "rarity": "Restricted",
     "float": "0.08941712975502014",
     "listed": 1706521778,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -3874,6 +4004,7 @@
     "rarity": "Restricted",
     "float": "0.10522802174091339",
     "listed": 1706521722,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -3903,6 +4034,7 @@
     "rarity": "Classified",
     "float": "0.230768084526062",
     "listed": 1706521513,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -3948,6 +4080,7 @@
     "rarity": "Mil-Spec Grade",
     "float": "0.14690519869327545",
     "listed": 1706521136,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -3969,6 +4102,7 @@
     "rarity": "Mil-Spec Grade",
     "float": "0.1155426874756813",
     "listed": 1706521061,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -4014,6 +4148,7 @@
     "rarity": "Mil-Spec Grade",
     "float": "0.08214594423770905",
     "listed": 1706520952,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -4058,6 +4193,7 @@
     "rarity": "Classified",
     "float": "0.03839000687003136",
     "listed": 1706520622,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -4095,6 +4231,7 @@
     "rarity": "Restricted",
     "float": "0.3719315528869629",
     "listed": 1706520596,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -4140,6 +4277,7 @@
     "rarity": "Classified",
     "float": "0.3040252923965454",
     "listed": 1706520464,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -4185,6 +4323,7 @@
     "rarity": "Classified",
     "float": "0.21202433109283447",
     "listed": 1706520402,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -4229,6 +4368,7 @@
     "rarity": "Classified",
     "float": "0.05566845089197159",
     "listed": 1706519335,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -4274,6 +4414,7 @@
     "rarity": "Classified",
     "float": "0.03539242595434189",
     "listed": 1706519310,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -4319,6 +4460,7 @@
     "rarity": "Mil-Spec Grade",
     "float": "0.09147091954946518",
     "listed": 1706519142,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -4364,6 +4506,7 @@
     "rarity": "Classified",
     "float": "0.3144588768482208",
     "listed": 1706518860,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -4409,6 +4552,7 @@
     "rarity": "Mil-Spec Grade",
     "float": "0.1862432062625885",
     "listed": 1706518835,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -4446,6 +4590,7 @@
     "rarity": "Classified",
     "float": "0.059006817638874054",
     "listed": 1706518589,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -4467,6 +4612,7 @@
     "rarity": "Classified",
     "float": "0.2457907795906067",
     "listed": 1706518194,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -4511,6 +4657,7 @@
     "rarity": "Restricted",
     "float": "0.1730392575263977",
     "listed": 1706518193,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -4556,6 +4703,7 @@
     "rarity": "Classified",
     "float": "0.3620049059391022",
     "listed": 1706518135,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -4577,6 +4725,7 @@
     "rarity": "Classified",
     "float": "0.21027743816375732",
     "listed": 1706517969,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -4622,6 +4771,7 @@
     "rarity": "Covert",
     "float": "0.07449095696210861",
     "listed": 1706517907,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -4667,6 +4817,7 @@
     "rarity": "Classified",
     "float": "0.019787006080150604",
     "listed": 1706517899,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -4712,6 +4863,7 @@
     "rarity": "Restricted",
     "float": "0.10355781018733978",
     "listed": 1706517765,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -4757,6 +4909,7 @@
     "rarity": "Restricted",
     "float": "0.1988900601863861",
     "listed": 1706517757,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -4794,6 +4947,7 @@
     "rarity": "Restricted",
     "float": "0.14177557826042175",
     "listed": 1706517659,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -4839,6 +4993,7 @@
     "rarity": "Restricted",
     "float": "0.14684811234474182",
     "listed": 1706517653,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -4876,6 +5031,7 @@
     "rarity": "Classified",
     "float": "0.3343561887741089",
     "listed": 1706517105,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -4921,6 +5077,7 @@
     "rarity": "Restricted",
     "float": "0.061232876032590866",
     "listed": 1706516579,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -4958,6 +5115,7 @@
     "rarity": "Restricted",
     "float": "0.5770906209945679",
     "listed": 1706516579,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -4979,6 +5137,7 @@
     "rarity": "Covert",
     "float": "0.12610989809036255",
     "listed": 1706516571,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -5008,6 +5167,7 @@
     "rarity": "Restricted",
     "float": "0.0812477394938469",
     "listed": 1706516498,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -5029,6 +5189,7 @@
     "rarity": "Restricted",
     "float": "0.010231785476207733",
     "listed": 1706516478,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -5058,6 +5219,7 @@
     "rarity": "Restricted",
     "float": "0.14100942015647888",
     "listed": 1706516410,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -5079,6 +5241,7 @@
     "rarity": "Classified",
     "float": "0.015121202915906906",
     "listed": 1706516393,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -5108,6 +5271,7 @@
     "rarity": "Mil-Spec Grade",
     "float": "0.2717462480068207",
     "listed": 1706516377,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -5137,6 +5301,7 @@
     "rarity": "Classified",
     "float": "0.09115172177553177",
     "listed": 1706516250,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -5182,6 +5347,7 @@
     "rarity": "Restricted",
     "float": "0.1613578498363495",
     "listed": 1706516203,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -5203,6 +5369,7 @@
     "rarity": "Classified",
     "float": "0.226974219083786",
     "listed": 1706516179,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -5248,6 +5415,7 @@
     "rarity": "Restricted",
     "float": "0.1209273412823677",
     "listed": 1706515701,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -5269,6 +5437,7 @@
     "rarity": "Classified",
     "float": "0.15375328063964844",
     "listed": 1706515492,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -5314,6 +5483,7 @@
     "rarity": "Restricted",
     "float": "0.025195423513650894",
     "listed": 1706515358,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -5359,6 +5529,7 @@
     "rarity": "Classified",
     "float": "0.23533585667610168",
     "listed": 1706515331,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -5404,6 +5575,7 @@
     "rarity": "Mil-Spec Grade",
     "float": "0.12894055247306824",
     "listed": 1706515306,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -5432,6 +5604,7 @@
     "rarity": "Classified",
     "float": "0.15702474117279053",
     "listed": 1706515242,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -5477,6 +5650,7 @@
     "rarity": "Restricted",
     "float": "0.03494206815958023",
     "listed": 1706515218,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -5522,6 +5696,7 @@
     "rarity": "Mil-Spec Grade",
     "float": "0.021915385499596596",
     "listed": 1706515170,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -5543,6 +5718,7 @@
     "rarity": "Mil-Spec Grade",
     "float": "0.39727917313575745",
     "listed": 1706515071,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -5588,6 +5764,7 @@
     "rarity": "Restricted",
     "float": "0.12722542881965637",
     "listed": 1706514302,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -5633,6 +5810,7 @@
     "rarity": "Mil-Spec Grade",
     "float": "0.29651159048080444",
     "listed": 1706513861,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -5654,6 +5832,7 @@
     "rarity": "Restricted",
     "float": "0.0735161155462265",
     "listed": 1706513797,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -5699,6 +5878,7 @@
     "rarity": "Restricted",
     "float": "0.11294802278280258",
     "listed": 1706513298,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -5744,6 +5924,7 @@
     "rarity": "Classified",
     "float": "0.09723062068223953",
     "listed": 1706512714,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -5789,6 +5970,7 @@
     "rarity": "Mil-Spec Grade",
     "float": "0.14325162768363953",
     "listed": 1706512166,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -5834,6 +6016,7 @@
     "rarity": "Classified",
     "float": "0.08579109609127045",
     "listed": 1706511139,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -5879,6 +6062,7 @@
     "rarity": "Restricted",
     "float": "0.12632299959659576",
     "listed": 1706511107,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -5916,6 +6100,7 @@
     "rarity": "Classified",
     "float": "0.44569844007492065",
     "listed": 1706511079,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -5937,6 +6122,7 @@
     "rarity": "Industrial Grade",
     "float": "0.2926403284072876",
     "listed": 1706510274,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -5958,6 +6144,7 @@
     "rarity": "Consumer Grade",
     "float": "0.16729438304901123",
     "listed": 1706510051,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -5979,6 +6166,7 @@
     "rarity": "Classified",
     "float": "0.16026894748210907",
     "listed": 1706543741,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -6024,6 +6212,7 @@
     "rarity": "Restricted",
     "float": "0.04172971472144127",
     "listed": 1706506792,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -6061,6 +6250,7 @@
     "rarity": "Classified",
     "float": "0.017575176432728767",
     "listed": 1706505860,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -6106,6 +6296,7 @@
     "rarity": "Covert",
     "float": "0.04824216291308403",
     "listed": 1706504674,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -6143,6 +6334,7 @@
     "rarity": "Restricted",
     "float": "0.06135539337992668",
     "listed": 1706502024,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -6180,6 +6372,7 @@
     "rarity": "Industrial Grade",
     "float": "0.3599627912044525",
     "listed": 1706501944,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -6201,6 +6394,7 @@
     "rarity": "Covert",
     "float": "0.07213624566793442",
     "listed": 1706501735,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -6238,6 +6432,7 @@
     "rarity": "Consumer Grade",
     "float": "0.03980649262666702",
     "listed": 1706501696,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -6275,6 +6470,7 @@
     "rarity": "Classified",
     "float": "0.2740156650543213",
     "listed": 1706501368,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -6320,6 +6516,7 @@
     "rarity": "Classified",
     "float": "0.11419212818145752",
     "listed": 1706500813,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -6365,6 +6562,7 @@
     "rarity": "Restricted",
     "float": "0.030015772208571434",
     "listed": 1706500343,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -6394,6 +6592,7 @@
     "rarity": "Covert",
     "float": "0.029055975377559662",
     "listed": 1706500239,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -6439,6 +6638,7 @@
     "rarity": "Mil-Spec Grade",
     "float": "0.3406887650489807",
     "listed": 1706499764,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -6460,6 +6660,7 @@
     "rarity": "Classified",
     "float": "0.04547260329127312",
     "listed": 1706498235,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -6489,6 +6690,7 @@
     "rarity": "Mil-Spec Grade",
     "float": "0.05920421704649925",
     "listed": 1706497269,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -6510,6 +6712,7 @@
     "rarity": "Classified",
     "float": "0.13982108235359192",
     "listed": 1706497186,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -6555,6 +6758,7 @@
     "rarity": "Classified",
     "float": "0.17537182569503784",
     "listed": 1706495068,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -6600,6 +6804,7 @@
     "rarity": "Classified",
     "float": "0.14966829121112823",
     "listed": 1706493709,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -6645,6 +6850,7 @@
     "rarity": "Mil-Spec Grade",
     "float": "0.0004279977292753756",
     "listed": 1706493407,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -6690,6 +6896,7 @@
     "rarity": "Mil-Spec Grade",
     "float": "0.33347296714782715",
     "listed": 1706493373,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -6735,6 +6942,7 @@
     "rarity": "Classified",
     "float": "0.06288167089223862",
     "listed": 1706490634,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -6764,6 +6972,7 @@
     "rarity": "Restricted",
     "float": "0.3264111876487732",
     "listed": 1706490116,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -6809,6 +7018,7 @@
     "rarity": "Restricted",
     "float": "0.07462528347969055",
     "listed": 1706488623,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -6854,6 +7064,7 @@
     "rarity": "Classified",
     "float": "0.3642233610153198",
     "listed": 1706488611,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -6899,6 +7110,7 @@
     "rarity": "Covert",
     "float": "0.009175634942948818",
     "listed": 1706488128,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -6944,6 +7156,7 @@
     "rarity": "Restricted",
     "float": "0.1481066793203354",
     "listed": 1706487396,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -6981,6 +7194,7 @@
     "rarity": "Classified",
     "float": "0.10699748247861862",
     "listed": 1706487033,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -7018,6 +7232,7 @@
     "rarity": "Classified",
     "float": "0.3415438234806061",
     "listed": 1706486586,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -7039,6 +7254,7 @@
     "rarity": "Restricted",
     "float": "0.06367465853691101",
     "listed": 1706486274,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -7084,6 +7300,7 @@
     "rarity": "Restricted",
     "float": "0.050773654133081436",
     "listed": 1706485914,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -7129,6 +7346,7 @@
     "rarity": "Covert",
     "float": "0.0059667243622243404",
     "listed": 1706485839,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -7174,6 +7392,7 @@
     "rarity": "Restricted",
     "float": "0.20160147547721863",
     "listed": 1706484222,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -7203,6 +7422,7 @@
     "rarity": "Classified",
     "float": "0.15869112312793732",
     "listed": 1706480617,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -7224,6 +7444,7 @@
     "rarity": "Industrial Grade",
     "float": "0.12313544750213623",
     "listed": 1706480117,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -7269,6 +7490,7 @@
     "rarity": "Classified",
     "float": "0.4132443964481354",
     "listed": 1706480026,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -7314,6 +7536,7 @@
     "rarity": "Covert",
     "float": "0.03747254237532616",
     "listed": 1706479850,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -7359,6 +7582,7 @@
     "rarity": "Classified",
     "float": "0.24811530113220215",
     "listed": 1706479785,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -7404,6 +7628,7 @@
     "rarity": "Industrial Grade",
     "float": "0.07056877017021179",
     "listed": 1706479698,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -7433,6 +7658,7 @@
     "rarity": "Mil-Spec Grade",
     "float": "0.06157343462109566",
     "listed": 1706479302,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -7454,6 +7680,7 @@
     "rarity": "Mil-Spec Grade",
     "float": "0.4936034679412842",
     "listed": 1706479280,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -7475,6 +7702,7 @@
     "rarity": "Classified",
     "float": "0.010138576850295067",
     "listed": 1706476895,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -7512,6 +7740,7 @@
     "rarity": "Classified",
     "float": "0.10168059915304184",
     "listed": 1706476539,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -7557,6 +7786,7 @@
     "rarity": "Classified",
     "float": "0.049334749579429626",
     "listed": 1706476476,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -7602,6 +7832,7 @@
     "rarity": "Classified",
     "float": "0.14102375507354736",
     "listed": 1706475327,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -7639,6 +7870,7 @@
     "rarity": "Restricted",
     "float": "0.10853632539510727",
     "listed": 1706475326,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -7676,6 +7908,7 @@
     "rarity": "Mil-Spec Grade",
     "float": "0.06136903911828995",
     "listed": 1706474980,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -7697,6 +7930,7 @@
     "rarity": "Restricted",
     "float": "0.021761592477560043",
     "listed": 1706473043,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -7718,6 +7952,7 @@
     "rarity": "Restricted",
     "float": "0.22309783101081848",
     "listed": 1706472805,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -7755,6 +7990,7 @@
     "rarity": "Mil-Spec Grade",
     "float": "0.10828931629657745",
     "listed": 1706472525,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -7776,6 +8012,7 @@
     "rarity": "Restricted",
     "float": "0.067130446434021",
     "listed": 1706472337,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -7821,6 +8058,7 @@
     "rarity": "Classified",
     "float": "0.15247754752635956",
     "listed": 1706471437,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -7841,6 +8079,7 @@
     "rarity": "Restricted",
     "float": "0.40959689021110535",
     "listed": 1706470920,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -7862,6 +8101,7 @@
     "rarity": "Restricted",
     "float": "0.0974390059709549",
     "listed": 1706470837,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -7891,6 +8131,7 @@
     "rarity": "Classified",
     "float": "0.02315778285264969",
     "listed": 1706470737,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -7920,6 +8161,7 @@
     "rarity": "Classified",
     "float": "0.3631027638912201",
     "listed": 1706469685,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -7965,6 +8207,7 @@
     "rarity": "Restricted",
     "float": "0.0829446017742157",
     "listed": 1706469684,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -8002,6 +8245,7 @@
     "rarity": "Mil-Spec Grade",
     "float": "0.2174028605222702",
     "listed": 1706469683,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -8046,6 +8290,7 @@
     "rarity": "Restricted",
     "float": "0.15764600038528442",
     "listed": 1706469683,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -8091,6 +8336,7 @@
     "rarity": "Classified",
     "float": "0.2985735237598419",
     "listed": 1706469682,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -8136,6 +8382,7 @@
     "rarity": "Classified",
     "float": "0.18812641501426697",
     "listed": 1706525779,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -8181,6 +8428,7 @@
     "rarity": "Restricted",
     "float": "0.36227768659591675",
     "listed": 1706469259,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -8226,6 +8474,7 @@
     "rarity": "Industrial Grade",
     "float": "0.1081661805510521",
     "listed": 1706469225,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -8271,6 +8520,7 @@
     "rarity": "Mil-Spec Grade",
     "float": "0.120932437479496",
     "listed": 1706469225,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -8300,6 +8550,7 @@
     "rarity": "Industrial Grade",
     "float": "0.3747331202030182",
     "listed": 1706469224,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -8345,6 +8596,7 @@
     "rarity": "Restricted",
     "float": "0.02317129820585251",
     "listed": 1706518911,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -8366,6 +8618,7 @@
     "rarity": "Covert",
     "float": "0.022035716101527214",
     "listed": 1706468219,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -8387,6 +8640,7 @@
     "rarity": "Classified",
     "float": "0.2050408273935318",
     "listed": 1706468134,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -8432,6 +8686,7 @@
     "rarity": "Classified",
     "float": "0.13795366883277893",
     "listed": 1706468047,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -8477,6 +8732,7 @@
     "rarity": "Classified",
     "float": "0.05619083717465401",
     "listed": 1706466617,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -8513,6 +8769,7 @@
     "rarity": "Mil-Spec Grade",
     "float": "0.10157418996095657",
     "listed": 1706466130,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -8558,6 +8815,7 @@
     "rarity": "Mil-Spec Grade",
     "float": "0.3758375644683838",
     "listed": 1706466129,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -8579,6 +8837,7 @@
     "rarity": "Classified",
     "float": "0.30552539229393005",
     "listed": 1706465533,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -8624,6 +8883,7 @@
     "rarity": "Classified",
     "float": "0.20446766912937164",
     "listed": 1706463851,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -8669,6 +8929,7 @@
     "rarity": "Classified",
     "float": "0.007434896659106016",
     "listed": 1706463773,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -8714,6 +8975,7 @@
     "rarity": "Covert",
     "float": "0.10490655153989792",
     "listed": 1706463773,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -8751,6 +9013,7 @@
     "rarity": "Mil-Spec Grade",
     "float": "0.19028274714946747",
     "listed": 1706463772,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -8796,6 +9059,7 @@
     "rarity": "Classified",
     "float": "0.10904638469219208",
     "listed": 1706463772,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -8817,6 +9081,7 @@
     "rarity": "Mil-Spec Grade",
     "float": "0.18762226402759552",
     "listed": 1706463771,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -8862,6 +9127,7 @@
     "rarity": "Mil-Spec Grade",
     "float": "0.2937694787979126",
     "listed": 1706463770,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -8907,6 +9173,7 @@
     "rarity": "Mil-Spec Grade",
     "float": "0.21511155366897583",
     "listed": 1706463769,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -8960,6 +9227,7 @@
     "rarity": "Covert",
     "float": "0.0024830305483192205",
     "listed": 1706463767,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -9005,6 +9273,7 @@
     "rarity": "Restricted",
     "float": "0.022950027137994766",
     "listed": 1706463766,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -9050,6 +9319,7 @@
     "rarity": "Restricted",
     "float": "0.034082721918821335",
     "listed": 1706463764,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -9095,6 +9365,7 @@
     "rarity": "Classified",
     "float": "0.05218761786818504",
     "listed": 1706463763,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -9140,6 +9411,7 @@
     "rarity": "Mil-Spec Grade",
     "float": "0.16149766743183136",
     "listed": 1706463762,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -9185,6 +9457,7 @@
     "rarity": "Covert",
     "float": "0.21524500846862793",
     "listed": 1706463762,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -9230,6 +9503,7 @@
     "rarity": "Classified",
     "float": "0.03886892646551132",
     "listed": 1706462808,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -9275,6 +9549,7 @@
     "rarity": "Mil-Spec Grade",
     "float": "0.03347150981426239",
     "listed": 1706462443,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -9296,6 +9571,7 @@
     "rarity": "Restricted",
     "float": "0.22363519668579102",
     "listed": 1706462030,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -9325,6 +9601,7 @@
     "rarity": "Covert",
     "float": "0.025868985801935196",
     "listed": 1706461736,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -9370,6 +9647,7 @@
     "rarity": "Restricted",
     "float": "0.08825705945491791",
     "listed": 1706461586,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -9415,6 +9693,7 @@
     "rarity": "Classified",
     "float": "0.12282530963420868",
     "listed": 1706460810,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -9436,6 +9715,7 @@
     "rarity": "Restricted",
     "float": "0.013204320333898067",
     "listed": 1706460040,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -9473,6 +9753,7 @@
     "rarity": "Classified",
     "float": "0.1290287971496582",
     "listed": 1706458463,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -9518,6 +9799,7 @@
     "rarity": "Mil-Spec Grade",
     "float": "0.265764057636261",
     "listed": 1706457808,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -9563,6 +9845,7 @@
     "rarity": "Restricted",
     "float": "0.4735690653324127",
     "listed": 1706456953,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -9600,6 +9883,7 @@
     "rarity": "Classified",
     "float": "0.27721846103668213",
     "listed": 1706456952,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -9645,6 +9929,7 @@
     "rarity": "Classified",
     "float": "0.20959265530109406",
     "listed": 1706456082,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -9666,6 +9951,7 @@
     "rarity": "Mil-Spec Grade",
     "float": "0.32460281252861023",
     "listed": 1706455792,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -9711,6 +9997,7 @@
     "rarity": "Mil-Spec Grade",
     "float": "0.1635611653327942",
     "listed": 1706455720,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -9756,6 +10043,7 @@
     "rarity": "Classified",
     "float": "0.18295948207378387",
     "listed": 1706455200,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -9801,6 +10089,7 @@
     "rarity": "Classified",
     "float": "0.19759899377822876",
     "listed": 1706454976,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -9846,6 +10135,7 @@
     "rarity": "Classified",
     "float": "0.12485122680664062",
     "listed": 1706454898,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -9867,6 +10157,7 @@
     "rarity": "Classified",
     "float": "0.09862896800041199",
     "listed": 1706454886,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -9903,6 +10194,7 @@
     "rarity": "Classified",
     "float": "0.22108839452266693",
     "listed": 1706454864,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -9924,6 +10216,7 @@
     "rarity": "Mil-Spec Grade",
     "float": "0.0476781390607357",
     "listed": 1706454864,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -9944,6 +10237,7 @@
     "rarity": "Classified",
     "float": "0.16570286452770233",
     "listed": 1706454824,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -9965,6 +10259,7 @@
     "rarity": "Restricted",
     "float": "0.04989492893218994",
     "listed": 1706454805,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -10001,6 +10296,7 @@
     "rarity": "Restricted",
     "float": "0.06215265020728111",
     "listed": 1706454804,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -10022,6 +10318,7 @@
     "rarity": "Restricted",
     "float": "0.08658543229103088",
     "listed": 1706454784,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -10058,6 +10355,7 @@
     "rarity": "Classified",
     "float": "0.06450866162776947",
     "listed": 1706454762,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -10087,6 +10385,7 @@
     "rarity": "Classified",
     "float": "0.3374623656272888",
     "listed": 1706454736,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -10116,6 +10415,7 @@
     "rarity": "Covert",
     "float": "0.10390081256628036",
     "listed": 1706454715,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -10152,6 +10452,7 @@
     "rarity": "Restricted",
     "float": "0.04783697798848152",
     "listed": 1706454677,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -10196,6 +10497,7 @@
     "rarity": "Classified",
     "float": "0.06821384280920029",
     "listed": 1706454658,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -10241,6 +10543,7 @@
     "rarity": "Restricted",
     "float": "0.08830847591161728",
     "listed": 1706454524,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -10286,6 +10589,7 @@
     "rarity": "Classified",
     "float": "0.0666881799697876",
     "listed": 1706453887,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -10331,6 +10635,7 @@
     "rarity": "Restricted",
     "float": "0.07288199663162231",
     "listed": 1706453887,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -10360,6 +10665,7 @@
     "rarity": "Restricted",
     "float": "0.22120094299316406",
     "listed": 1706452516,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -10381,6 +10687,7 @@
     "rarity": "Covert",
     "float": "0.7520641684532166",
     "listed": 1706451859,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -10402,6 +10709,7 @@
     "rarity": "Classified",
     "float": "0.13861744105815887",
     "listed": 1706451575,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -10447,6 +10755,7 @@
     "rarity": "Classified",
     "float": "0.18856942653656006",
     "listed": 1706451514,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -10468,6 +10777,7 @@
     "rarity": "Mil-Spec Grade",
     "float": "0.1593620628118515",
     "listed": 1706450806,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -10513,6 +10823,7 @@
     "rarity": "Classified",
     "float": "0.13976672291755676",
     "listed": 1706449620,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -10558,6 +10869,7 @@
     "rarity": "Restricted",
     "float": "0.2582516670227051",
     "listed": 1706449619,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -10603,6 +10915,7 @@
     "rarity": "Classified",
     "float": "0.18682581186294556",
     "listed": 1706449403,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -10648,6 +10961,7 @@
     "rarity": "Classified",
     "float": "0.15194576978683472",
     "listed": 1706449140,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -10685,6 +10999,7 @@
     "rarity": "Classified",
     "float": "0.03972383588552475",
     "listed": 1706448445,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -10730,6 +11045,7 @@
     "rarity": "Classified",
     "float": "0.17226432263851166",
     "listed": 1706448155,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -10775,6 +11091,7 @@
     "rarity": "Restricted",
     "float": "0.14633779227733612",
     "listed": 1706447637,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -10804,6 +11121,7 @@
     "rarity": "Industrial Grade",
     "float": "0.289781779050827",
     "listed": 1706447507,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -10849,6 +11167,7 @@
     "rarity": "Covert",
     "float": "0.04114345461130142",
     "listed": 1706446887,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -10894,6 +11213,7 @@
     "rarity": "Covert",
     "float": "0.004645996727049351",
     "listed": 1706446887,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -10915,6 +11235,7 @@
     "rarity": "Restricted",
     "float": "0.1395556479692459",
     "listed": 1706446114,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -10960,6 +11281,7 @@
     "rarity": "Restricted",
     "float": "0.043368108570575714",
     "listed": 1706445240,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -11005,6 +11327,7 @@
     "rarity": "Classified",
     "float": "0.20079071819782257",
     "listed": 1706444761,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -11034,6 +11357,7 @@
     "rarity": "Classified",
     "float": "0.1539931297302246",
     "listed": 1706444504,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -11079,6 +11403,7 @@
     "rarity": "Classified",
     "float": "0.2074509561061859",
     "listed": 1706444503,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -11124,6 +11449,7 @@
     "rarity": "Covert",
     "float": "0.10283078998327255",
     "listed": 1706443544,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -11145,6 +11471,7 @@
     "rarity": "Restricted",
     "float": "0.10965392738580704",
     "listed": 1706442894,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -11190,6 +11517,7 @@
     "rarity": "Classified",
     "float": "0.367807537317276",
     "listed": 1706442893,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -11235,6 +11563,7 @@
     "rarity": "Restricted",
     "float": "0.016191303730010986",
     "listed": 1706442892,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -11280,6 +11609,7 @@
     "rarity": "Covert",
     "float": "0.0021728682331740856",
     "listed": 1706442576,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -11325,6 +11655,7 @@
     "rarity": "Restricted",
     "float": "0.06377443671226501",
     "listed": 1706442518,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -11370,6 +11701,7 @@
     "rarity": "Mil-Spec Grade",
     "float": "0.013141288422048092",
     "listed": 1706442342,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -11399,6 +11731,7 @@
     "rarity": "Classified",
     "float": "0.05620376020669937",
     "listed": 1706441961,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -11444,6 +11777,7 @@
     "rarity": "Classified",
     "float": "0.1639137715101242",
     "listed": 1706441650,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -11489,6 +11823,7 @@
     "rarity": "Classified",
     "float": "0.10559350252151489",
     "listed": 1706441500,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -11526,6 +11861,7 @@
     "rarity": "Restricted",
     "float": "0.16813647747039795",
     "listed": 1706441391,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -11571,6 +11907,7 @@
     "rarity": "Classified",
     "float": "0.15192949771881104",
     "listed": 1706440856,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -11600,6 +11937,7 @@
     "rarity": "Classified",
     "float": "0.14429537951946259",
     "listed": 1706440826,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -11629,6 +11967,7 @@
     "rarity": "Classified",
     "float": "0.025402458384633064",
     "listed": 1706440241,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -11674,6 +12013,7 @@
     "rarity": "Restricted",
     "float": "0.18637190759181976",
     "listed": 1706440198,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -11719,6 +12059,7 @@
     "rarity": "Classified",
     "float": "0.04244507476687431",
     "listed": 1706439898,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -11764,6 +12105,7 @@
     "rarity": "Classified",
     "float": "0.06450454145669937",
     "listed": 1706537651,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -11809,6 +12151,7 @@
     "rarity": "Restricted",
     "float": "0.15070517361164093",
     "listed": 1706439614,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -11838,6 +12181,7 @@
     "rarity": "Classified",
     "float": "0.18665148317813873",
     "listed": 1706439557,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -11883,6 +12227,7 @@
     "rarity": "Classified",
     "float": "0.18106311559677124",
     "listed": 1706439050,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -11928,6 +12273,7 @@
     "rarity": "Restricted",
     "float": "0.09024393558502197",
     "listed": 1706438342,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -11957,6 +12303,7 @@
     "rarity": "Classified",
     "float": "0.05687782168388367",
     "listed": 1706438342,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -11994,6 +12341,7 @@
     "rarity": "Restricted",
     "float": "0.17534393072128296",
     "listed": 1706438341,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -12039,6 +12387,7 @@
     "rarity": "Industrial Grade",
     "float": "0.45869192481040955",
     "listed": 1706438340,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -12076,6 +12425,7 @@
     "rarity": "Restricted",
     "float": "0.11264626681804657",
     "listed": 1706437717,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -12105,6 +12455,7 @@
     "rarity": "Covert",
     "float": "0.040567439049482346",
     "listed": 1706437641,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -12150,6 +12501,7 @@
     "rarity": "Industrial Grade",
     "float": "0.14949600398540497",
     "listed": 1706437351,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -12187,6 +12539,7 @@
     "rarity": "Mil-Spec Grade",
     "float": "0.3857308626174927",
     "listed": 1706436941,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -12224,6 +12577,7 @@
     "rarity": "Mil-Spec Grade",
     "float": "0.2636530101299286",
     "listed": 1706436940,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -12269,6 +12623,7 @@
     "rarity": "Restricted",
     "float": "0.18322798609733582",
     "listed": 1706436852,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -12314,6 +12669,7 @@
     "rarity": "Classified",
     "float": "0.278285950422287",
     "listed": 1706436746,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -12359,6 +12715,7 @@
     "rarity": "Restricted",
     "float": "0.1866433471441269",
     "listed": 1706436119,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -12404,6 +12761,7 @@
     "rarity": "Restricted",
     "float": "0.03471032530069351",
     "listed": 1706435637,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -12449,6 +12807,7 @@
     "rarity": "Covert",
     "float": "0.130049467086792",
     "listed": 1706435636,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -12494,6 +12853,7 @@
     "rarity": "Covert",
     "float": "0.2614540159702301",
     "listed": 1706520256,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -12523,6 +12883,7 @@
     "rarity": "Restricted",
     "float": "0.12139217555522919",
     "listed": 1706435488,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -12568,6 +12929,7 @@
     "rarity": "Restricted",
     "float": "0.06855733692646027",
     "listed": 1706435358,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -12613,6 +12975,7 @@
     "rarity": "Industrial Grade",
     "float": "0.12159273028373718",
     "listed": 1706434931,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -12658,6 +13021,7 @@
     "rarity": "Industrial Grade",
     "float": "0.2754315733909607",
     "listed": 1706434861,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -12687,6 +13051,7 @@
     "rarity": "Industrial Grade",
     "float": "0.3692486584186554",
     "listed": 1706434861,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -12716,6 +13081,7 @@
     "rarity": "Mil-Spec Grade",
     "float": "0.41254323720932007",
     "listed": 1706434860,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -12737,6 +13103,7 @@
     "rarity": "Classified",
     "float": "0.47857311367988586",
     "listed": 1706434859,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -12782,6 +13149,7 @@
     "rarity": "Classified",
     "float": "0.2727307081222534",
     "listed": 1706434859,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -12811,6 +13179,7 @@
     "rarity": "Industrial Grade",
     "float": "0.19430580735206604",
     "listed": 1706434712,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -12832,6 +13201,7 @@
     "rarity": "Mil-Spec Grade",
     "float": "0.08570310473442078",
     "listed": 1706434708,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -12853,6 +13223,7 @@
     "rarity": "Classified",
     "float": "0.015821602195501328",
     "listed": 1706434359,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -12898,6 +13269,7 @@
     "rarity": "Covert",
     "float": "0.5953290462493896",
     "listed": 1706434293,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -12943,6 +13315,7 @@
     "rarity": "Covert",
     "float": "0.37270575761795044",
     "listed": 1706434292,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -12988,6 +13361,7 @@
     "rarity": "Classified",
     "float": "0.13004377484321594",
     "listed": 1706433749,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -13033,6 +13407,7 @@
     "rarity": "Mil-Spec Grade",
     "float": "0.755190908908844",
     "listed": 1706433607,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -13054,6 +13429,7 @@
     "rarity": "Covert",
     "float": "0.03146074712276459",
     "listed": 1706433521,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -13099,6 +13475,7 @@
     "rarity": "Restricted",
     "float": "0.2667180895805359",
     "listed": 1706433264,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -13144,6 +13521,7 @@
     "rarity": "Classified",
     "float": "0.2541041672229767",
     "listed": 1706432634,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -13189,6 +13567,7 @@
     "rarity": "Mil-Spec Grade",
     "float": "0.1563422828912735",
     "listed": 1706432603,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -13218,6 +13597,7 @@
     "rarity": "Mil-Spec Grade",
     "float": "0.12225085496902466",
     "listed": 1706432161,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -13255,6 +13635,7 @@
     "rarity": "Restricted",
     "float": "0.1549462527036667",
     "listed": 1706431752,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -13300,6 +13681,7 @@
     "rarity": "Mil-Spec Grade",
     "float": "0.067783422768116",
     "listed": 1706431422,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -13337,6 +13719,7 @@
     "rarity": "Restricted",
     "float": "0.06928154826164246",
     "listed": 1706431204,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -13382,6 +13765,7 @@
     "rarity": "Restricted",
     "float": "0.12089484184980392",
     "listed": 1706431186,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -13426,6 +13810,7 @@
     "rarity": "Industrial Grade",
     "float": "0.3173602521419525",
     "listed": 1706430938,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -13471,6 +13856,7 @@
     "rarity": "Mil-Spec Grade",
     "float": "0.09238359332084656",
     "listed": 1706430937,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -13500,6 +13886,7 @@
     "rarity": "Covert",
     "float": "0.025084946304559708",
     "listed": 1706430670,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -13545,6 +13932,7 @@
     "rarity": "Restricted",
     "float": "0.11722035706043243",
     "listed": 1706430398,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -13582,6 +13970,7 @@
     "rarity": "Mil-Spec Grade",
     "float": "0.0016841100296005607",
     "listed": 1706430326,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -13627,6 +14016,7 @@
     "rarity": "Mil-Spec Grade",
     "float": "0.23358339071273804",
     "listed": 1706430326,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -13648,6 +14038,7 @@
     "rarity": "Restricted",
     "float": "0.2829761505126953",
     "listed": 1706430228,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -13693,6 +14084,7 @@
     "rarity": "Restricted",
     "float": "0.10113469511270523",
     "listed": 1706429959,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -13730,6 +14122,7 @@
     "rarity": "Restricted",
     "float": "0.05705273896455765",
     "listed": 1706500196,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -13759,6 +14152,7 @@
     "rarity": "Classified",
     "float": "0.0942041426897049",
     "listed": 1706429817,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -13804,6 +14198,7 @@
     "rarity": "Classified",
     "float": "0.1978910267353058",
     "listed": 1706429660,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -13849,6 +14244,7 @@
     "rarity": "Industrial Grade",
     "float": "0.1244104877114296",
     "listed": 1706429657,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -13886,6 +14282,7 @@
     "rarity": "Restricted",
     "float": "0.14377722144126892",
     "listed": 1706429599,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -13931,6 +14328,7 @@
     "rarity": "Covert",
     "float": "0.017641432583332062",
     "listed": 1706429595,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -13976,6 +14374,7 @@
     "rarity": "Industrial Grade",
     "float": "0.2773258090019226",
     "listed": 1706429434,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -14021,6 +14420,7 @@
     "rarity": "Restricted",
     "float": "0.024486511945724487",
     "listed": 1706429416,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -14058,6 +14458,7 @@
     "rarity": "Industrial Grade",
     "float": "0.13278745114803314",
     "listed": 1706429256,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -14103,6 +14504,7 @@
     "rarity": "Mil-Spec Grade",
     "float": "0.024559710174798965",
     "listed": 1706429212,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -14148,6 +14550,7 @@
     "rarity": "Restricted",
     "float": "0.3088919520378113",
     "listed": 1706427782,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -14169,6 +14572,7 @@
     "rarity": "Restricted",
     "float": "0.10691306740045547",
     "listed": 1706427455,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -14206,6 +14610,7 @@
     "rarity": "Restricted",
     "float": "0.05904722958803177",
     "listed": 1706427334,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -14251,6 +14656,7 @@
     "rarity": "Mil-Spec Grade",
     "float": "0.4428599774837494",
     "listed": 1706426484,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -14296,6 +14702,7 @@
     "rarity": "Restricted",
     "float": "0.06375794112682343",
     "listed": 1706425804,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -14341,6 +14748,7 @@
     "rarity": "Mil-Spec Grade",
     "float": "0.1355690062046051",
     "listed": 1706425223,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -14386,6 +14794,7 @@
     "rarity": "Restricted",
     "float": "0.04023895785212517",
     "listed": 1706425222,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -14431,6 +14840,7 @@
     "rarity": "Mil-Spec Grade",
     "float": "0.15035288035869598",
     "listed": 1706424552,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -14476,6 +14886,7 @@
     "rarity": "Classified",
     "float": "0.02799995243549347",
     "listed": 1706424528,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -14521,6 +14932,7 @@
     "rarity": "Classified",
     "float": "0.04307672381401062",
     "listed": 1706423936,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -14566,6 +14978,7 @@
     "rarity": "Mil-Spec Grade",
     "float": "0.1685769110918045",
     "listed": 1706422809,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -14603,6 +15016,7 @@
     "rarity": "Classified",
     "float": "0.12897291779518127",
     "listed": 1706422425,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -14648,6 +15062,7 @@
     "rarity": "Restricted",
     "float": "0.08554264903068542",
     "listed": 1706420452,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -14693,6 +15108,7 @@
     "rarity": "Covert",
     "float": "0.4452087879180908",
     "listed": 1706419992,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -14714,6 +15130,7 @@
     "rarity": "Classified",
     "float": "0.16992732882499695",
     "listed": 1706419749,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -14759,6 +15176,7 @@
     "rarity": "Covert",
     "float": "0.002425210550427437",
     "listed": 1706418264,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -14804,6 +15222,7 @@
     "rarity": "Covert",
     "float": "0.006091956049203873",
     "listed": 1706418262,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -14849,6 +15268,7 @@
     "rarity": "Classified",
     "float": "0.12925277650356293",
     "listed": 1706417999,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -14886,6 +15306,7 @@
     "rarity": "Covert",
     "float": "0.04713812470436096",
     "listed": 1706417480,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -14931,6 +15352,7 @@
     "rarity": "Classified",
     "float": "0.14711029827594757",
     "listed": 1706417359,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -14968,6 +15390,7 @@
     "rarity": "Covert",
     "float": "0.010454739443957806",
     "listed": 1706417262,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -15013,6 +15436,7 @@
     "rarity": "Mil-Spec Grade",
     "float": "0.2027626484632492",
     "listed": 1706416835,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -15058,6 +15482,7 @@
     "rarity": "Classified",
     "float": "0.14960893988609314",
     "listed": 1706415851,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -15079,6 +15504,7 @@
     "rarity": "Classified",
     "float": "0.13226217031478882",
     "listed": 1706415843,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -15124,6 +15550,7 @@
     "rarity": "Classified",
     "float": "0.20308129489421844",
     "listed": 1706415826,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -15161,6 +15588,7 @@
     "rarity": "Covert",
     "float": "0.08375048637390137",
     "listed": 1706413491,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -15206,6 +15634,7 @@
     "rarity": "Classified",
     "float": "0.10589704662561417",
     "listed": 1706411068,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -15251,6 +15680,7 @@
     "rarity": "Classified",
     "float": "0.5571085810661316",
     "listed": 1706407939,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -15296,6 +15726,7 @@
     "rarity": "Mil-Spec Grade",
     "float": "0.025324862450361252",
     "listed": 1706407100,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -15341,6 +15772,7 @@
     "rarity": "Mil-Spec Grade",
     "float": "0.2852206826210022",
     "listed": 1706406898,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -15386,6 +15818,7 @@
     "rarity": "Mil-Spec Grade",
     "float": "0.043413057923316956",
     "listed": 1706406286,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -15431,6 +15864,7 @@
     "rarity": "Restricted",
     "float": "0.019824212417006493",
     "listed": 1706406270,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -15460,6 +15894,7 @@
     "rarity": "Classified",
     "float": "0.10927270352840424",
     "listed": 1706405818,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -15505,6 +15940,7 @@
     "rarity": "Classified",
     "float": "0.06895583122968674",
     "listed": 1706403792,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -15550,6 +15986,7 @@
     "rarity": "Mil-Spec Grade",
     "float": "0.3788064122200012",
     "listed": 1706403618,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -15595,6 +16032,7 @@
     "rarity": "Classified",
     "float": "0.155462384223938",
     "listed": 1706403470,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -15640,6 +16078,7 @@
     "rarity": "Contraband",
     "float": "0.057344913482666016",
     "listed": 1706400566,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -15669,6 +16108,7 @@
     "rarity": "Restricted",
     "float": "0.010949022136628628",
     "listed": 1706400152,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -15690,6 +16130,7 @@
     "rarity": "Industrial Grade",
     "float": "0.12776513397693634",
     "listed": 1706397415,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -15719,6 +16160,7 @@
     "rarity": "Classified",
     "float": "0.20303286612033844",
     "listed": 1706395496,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -15748,6 +16190,7 @@
     "rarity": "Mil-Spec Grade",
     "float": "0.584662914276123",
     "listed": 1706394607,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -15785,6 +16228,7 @@
     "rarity": "Restricted",
     "float": "0.16349416971206665",
     "listed": 1706394467,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -15806,6 +16250,7 @@
     "rarity": "Mil-Spec Grade",
     "float": "0.06836139410734177",
     "listed": 1706394467,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -15827,6 +16272,7 @@
     "rarity": "Restricted",
     "float": "0.04641792178153992",
     "listed": 1706394466,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -15848,6 +16294,7 @@
     "rarity": "Restricted",
     "float": "0.023742491379380226",
     "listed": 1706394466,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -15869,6 +16316,7 @@
     "rarity": "Restricted",
     "float": "0.11044707894325256",
     "listed": 1706392254,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -15906,6 +16354,7 @@
     "rarity": "Mil-Spec Grade",
     "float": "0.11881458014249802",
     "listed": 1706392254,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -15927,6 +16376,7 @@
     "rarity": "Mil-Spec Grade",
     "float": "0.322176456451416",
     "listed": 1706392253,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -15972,6 +16422,7 @@
     "rarity": "Mil-Spec Grade",
     "float": "0.22408846020698547",
     "listed": 1706392250,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -16001,6 +16452,7 @@
     "rarity": "Restricted",
     "float": "0.03803906962275505",
     "listed": 1706391574,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -16022,6 +16474,7 @@
     "rarity": "Classified",
     "float": "0.33869197964668274",
     "listed": 1706391078,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -16067,6 +16520,7 @@
     "rarity": "Restricted",
     "float": "0.03093724139034748",
     "listed": 1706389260,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -16112,6 +16566,7 @@
     "rarity": "Classified",
     "float": "0.12950661778450012",
     "listed": 1706384774,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -16157,6 +16612,7 @@
     "rarity": "Classified",
     "float": "0.08696231245994568",
     "listed": 1706383481,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -16186,6 +16642,7 @@
     "rarity": "Classified",
     "float": "0.03666679933667183",
     "listed": 1706382667,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -16231,6 +16688,7 @@
     "rarity": "Classified",
     "float": "0.19169634580612183",
     "listed": 1706382549,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -16276,6 +16734,7 @@
     "rarity": "Mil-Spec Grade",
     "float": "0.13985830545425415",
     "listed": 1706382375,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -16313,6 +16772,7 @@
     "rarity": "Classified",
     "float": "0.3425959348678589",
     "listed": 1706381862,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -16358,6 +16818,7 @@
     "rarity": "Restricted",
     "float": "0.5109637975692749",
     "listed": 1706381658,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -16403,6 +16864,7 @@
     "rarity": "Mil-Spec Grade",
     "float": "0.49631467461586",
     "listed": 1706381558,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -16448,6 +16910,7 @@
     "rarity": "Restricted",
     "float": "0.3700784742832184",
     "listed": 1706381135,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -16493,6 +16956,7 @@
     "rarity": "Classified",
     "float": "0.36293771862983704",
     "listed": 1706380486,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -16522,6 +16986,7 @@
     "rarity": "Classified",
     "float": "0.20429934561252594",
     "listed": 1706379961,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -16567,6 +17032,7 @@
     "rarity": "Classified",
     "float": "0.1517893373966217",
     "listed": 1706379786,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -16588,6 +17054,7 @@
     "rarity": "Mil-Spec Grade",
     "float": "0.520665168762207",
     "listed": 1706379414,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -16625,6 +17092,7 @@
     "rarity": "Mil-Spec Grade",
     "float": "0.028451941907405853",
     "listed": 1706379414,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -16654,6 +17122,7 @@
     "rarity": "Mil-Spec Grade",
     "float": "0.16634415090084076",
     "listed": 1706379175,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -16683,6 +17152,7 @@
     "rarity": "Mil-Spec Grade",
     "float": "0.1117270290851593",
     "listed": 1706378983,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -16720,6 +17190,7 @@
     "rarity": "Classified",
     "float": "0.2483787089586258",
     "listed": 1706378688,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -16740,35 +17211,6 @@
     ]
   },
   {
-    "url": "https://buff.163.com/market/m/item_detail?appid=730&game=csgo&classid=5561844372&instanceid=480085569&assetid=33815383128&contextid=2&sell_order_id=0957117038-79BA-134874096",
-    "id": 33960,
-    "name": "AK-47 | Redline (Field-Tested)",
-    "wear": "Field-Tested",
-    "img": "https://spect.fp.ps.netease.com/file/65b68acb8c6272690d810a1136quFEG005?fop=imageView/4/x/364/y/100/w/1928/h/1300%7CimageView/2/w/392/h/260",
-    "price": "1540",
-    "rarity": "Classified",
-    "float": "0.2332991659641266",
-    "listed": 1706378186,
-    "stickers": [
-      {
-        "category": "sticker",
-        "img_url": "https://g.fp.ps.netease.com/market/file/5a9cc99b02c9a1e2d04ae1dfeHRNOWPV",
-        "name": "Reason Gaming | Katowice 2014",
-        "slot": 3,
-        "sticker_id": 73,
-        "wear": 0
-      },
-      {
-        "category": "sticker",
-        "img_url": "https://g.fp.ps.netease.com/market/file/5e78adf36f0494c307e9ec6bXAJAeJlO02",
-        "name": "Health (Gold)",
-        "slot": 2,
-        "sticker_id": 4613,
-        "wear": 0.7402312159538269
-      }
-    ]
-  },
-  {
     "url": "https://buff.163.com/market/m/item_detail?appid=730&game=csgo&classid=5652279222&instanceid=188530139&assetid=34853297154&contextid=2&sell_order_id=0957120374-79BA-134874096",
     "id": 33872,
     "name": "AK-47 | Blue Laminate (Factory New)",
@@ -16778,6 +17220,7 @@
     "rarity": "Restricted",
     "float": "0.0675135999917984",
     "listed": 1706378135,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -16815,6 +17258,7 @@
     "rarity": "Mil-Spec Grade",
     "float": "0.04374575614929199",
     "listed": 1706377982,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -16860,6 +17304,7 @@
     "rarity": "Classified",
     "float": "0.18585056066513062",
     "listed": 1706377566,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -16905,6 +17350,7 @@
     "rarity": "Mil-Spec Grade",
     "float": "0.2861328125",
     "listed": 1706377289,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -16941,6 +17387,7 @@
     "rarity": "Mil-Spec Grade",
     "float": "0.1458289623260498",
     "listed": 1706377153,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -16986,6 +17433,7 @@
     "rarity": "Classified",
     "float": "0.2695833444595337",
     "listed": 1706377048,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -17031,6 +17479,7 @@
     "rarity": "Mil-Spec Grade",
     "float": "0.1880742758512497",
     "listed": 1706376696,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -17060,6 +17509,7 @@
     "rarity": "Mil-Spec Grade",
     "float": "0.21558445692062378",
     "listed": 1706376375,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -17088,7 +17538,7 @@
     ]
   },
   {
-    "url": "https://buff.163.com/market/m/item_detail?appid=730&game=csgo&classid=3793471091&instanceid=480092691&assetid=32367081931&contextid=2&sell_order_id=0957150678-79BA-134874096",
+    "url": "https://buff.163.com/market/m/item_detail?appid=730&game=csgo&classid=3793471091&instanceid=188644548&assetid=32367081931&contextid=2&sell_order_id=0957150678-79BA-134874096",
     "id": 39737,
     "name": "StatTrak™ USP-S | Guardian (Minimal Wear)",
     "wear": "Minimal Wear",
@@ -17097,6 +17547,7 @@
     "rarity": "Restricted",
     "float": "0.14849507808685303",
     "listed": 1706375456,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -17142,6 +17593,7 @@
     "rarity": "Covert",
     "float": "0.17753174901008606",
     "listed": 1706375137,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -17187,6 +17639,7 @@
     "rarity": "Mil-Spec Grade",
     "float": "0.03055049292743206",
     "listed": 1706375136,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -17216,6 +17669,7 @@
     "rarity": "Mil-Spec Grade",
     "float": "0.08795591443777084",
     "listed": 1706375136,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -17245,6 +17699,7 @@
     "rarity": "Classified",
     "float": "0.3457857370376587",
     "listed": 1706373901,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -17290,6 +17745,7 @@
     "rarity": "Covert",
     "float": "0.32043686509132385",
     "listed": 1706373152,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -17335,6 +17791,7 @@
     "rarity": "Classified",
     "float": "0.06956925243139267",
     "listed": 1706373034,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -17364,6 +17821,7 @@
     "rarity": "Classified",
     "float": "0.1851610541343689",
     "listed": 1706372516,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -17385,6 +17843,7 @@
     "rarity": "Classified",
     "float": "0.14864280819892883",
     "listed": 1706372231,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -17430,6 +17889,7 @@
     "rarity": "Classified",
     "float": "0.05327051877975464",
     "listed": 1706370604,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -17475,6 +17935,7 @@
     "rarity": "Classified",
     "float": "0.14563843607902527",
     "listed": 1706370520,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -17520,6 +17981,7 @@
     "rarity": "Classified",
     "float": "0.15404152870178223",
     "listed": 1706370317,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -17541,6 +18003,7 @@
     "rarity": "Classified",
     "float": "0.14083576202392578",
     "listed": 1706370192,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -17586,6 +18049,7 @@
     "rarity": "Restricted",
     "float": "0.07703999429941177",
     "listed": 1706370191,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -17631,6 +18095,7 @@
     "rarity": "Mil-Spec Grade",
     "float": "0.000842680165078491",
     "listed": 1706369869,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -17652,6 +18117,7 @@
     "rarity": "Mil-Spec Grade",
     "float": "0.10510976612567902",
     "listed": 1706369868,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -17697,6 +18163,7 @@
     "rarity": "Classified",
     "float": "0.07014792412519455",
     "listed": 1706369745,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -17742,6 +18209,7 @@
     "rarity": "Covert",
     "float": "0.04222596809267998",
     "listed": 1706368925,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -17771,6 +18239,7 @@
     "rarity": "Mil-Spec Grade",
     "float": "0.2954658269882202",
     "listed": 1706367740,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -17792,6 +18261,7 @@
     "rarity": "Restricted",
     "float": "0.04774042218923569",
     "listed": 1706366243,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -17829,6 +18299,7 @@
     "rarity": "Mil-Spec Grade",
     "float": "0.14471007883548737",
     "listed": 1706366243,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -17858,6 +18329,7 @@
     "rarity": "Classified",
     "float": "0.15672087669372559",
     "listed": 1706365183,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -17903,6 +18375,7 @@
     "rarity": "Classified",
     "float": "0.04182477295398712",
     "listed": 1706365000,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -17948,6 +18421,7 @@
     "rarity": "Classified",
     "float": "0.08533957600593567",
     "listed": 1706364770,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -17993,6 +18467,7 @@
     "rarity": "Restricted",
     "float": "0.018589770421385765",
     "listed": 1706364008,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -18022,6 +18497,7 @@
     "rarity": "Contraband",
     "float": "0.23150883615016937",
     "listed": 1706363696,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -18059,6 +18535,7 @@
     "rarity": "Classified",
     "float": "0.1371038407087326",
     "listed": 1706363546,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -18080,6 +18557,7 @@
     "rarity": "Classified",
     "float": "0.04188808053731918",
     "listed": 1706362896,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -18125,6 +18603,7 @@
     "rarity": "Industrial Grade",
     "float": "0.03638926148414612",
     "listed": 1706362834,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -18169,6 +18648,7 @@
     "rarity": "Classified",
     "float": "0.02488701604306698",
     "listed": 1706362363,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -18214,6 +18694,7 @@
     "rarity": "Classified",
     "float": "0.0050288173370063305",
     "listed": 1706362268,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -18259,6 +18740,7 @@
     "rarity": "Restricted",
     "float": "0.14893899857997894",
     "listed": 1706361863,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -18304,6 +18786,7 @@
     "rarity": "Classified",
     "float": "0.33983778953552246",
     "listed": 1706361296,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -18349,6 +18832,7 @@
     "rarity": "Mil-Spec Grade",
     "float": "0.2838181257247925",
     "listed": 1706361256,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -18394,6 +18878,7 @@
     "rarity": "Mil-Spec Grade",
     "float": "0.14298826456069946",
     "listed": 1706360609,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -18431,6 +18916,7 @@
     "rarity": "Classified",
     "float": "0.3607468008995056",
     "listed": 1706359360,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -18476,6 +18962,7 @@
     "rarity": "Classified",
     "float": "0.019956136122345924",
     "listed": 1706504176,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -18513,6 +19000,7 @@
     "rarity": "Covert",
     "float": "0.6882966160774231",
     "listed": 1706359098,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -18558,6 +19046,7 @@
     "rarity": "Restricted",
     "float": "0.007802360691130161",
     "listed": 1706358956,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -18603,6 +19092,7 @@
     "rarity": "Restricted",
     "float": "0.0024659819900989532",
     "listed": 1706358824,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -18648,6 +19138,7 @@
     "rarity": "Mil-Spec Grade",
     "float": "0.2316216230392456",
     "listed": 1706357906,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
@@ -18669,6 +19160,7 @@
     "rarity": "Mil-Spec Grade",
     "float": "0.17809158563613892",
     "listed": 1706357905,
+    "type": "Listed",
     "stickers": [
       {
         "category": "sticker",
